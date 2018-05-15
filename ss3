@@ -1,0 +1,3 @@
+echo "This is Shell Script 3!"
+sleep 3
+df
