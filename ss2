@@ -1,2 +1,4 @@
 echo "Shell Script 2"
 ls -a
+cat /home/runner/cf2.txt
+cat /home/runner/cf3.txt
