@@ -1,3 +1,5 @@
 echo "This is Shell Script 3!"
+echo $VAR2
 sleep 3
+echo $VAR1
 df
