@@ -1,3 +1,4 @@
 echo "Shell Script 1"
 date
 echo $VAR1
+echo $VAR2
